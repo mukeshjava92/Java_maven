@@ -20,7 +20,7 @@ Build Docker image for Springboot Application
 --------------
     docker build -t vikashashoke/kubernetes-configmap-reload .
   
-Docker login
+Docker login 
 -------------
     docker login
     
